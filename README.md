@@ -13,7 +13,7 @@ This SDK is created for easier intergration and API usage of ONE APP.
 
 ## Installation
 
-If you are using composer you could get it with `composer require kly/onesdk` and you are all set. Load up the autoloader and Call the classes or factory you need.
+If you are using composer you could get it with `composer require karsa/onesdk` and you are all set. Load up the autoloader and Call the classes or factory you need.
 
 ## Usage
 
