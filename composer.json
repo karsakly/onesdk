@@ -5,9 +5,9 @@
     "license": "MIT",
     "require": {
         "guzzlehttp/guzzle": "^7.3",
-        "psr/log": "^3.0",
+        "psr/log": "^1.0",
         "psr/http-message": "^1.0",
-        "symfony/polyfill-intl-normalizer": "^1.23",
+        "symfony/polyfill-intl-normalizer": "^1.8",
         "php-ds/php-ds": "^1.2"
     },
     "require-dev": {
